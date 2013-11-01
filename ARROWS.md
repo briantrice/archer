@@ -338,3 +338,43 @@ U+2B5x	⭐	⭑	⭒	⭓	⭔	⭕	⭖	⭗	⭘	⭙
 ⥟,295F
 ⥯,296F
 ⥿,297F
+
+[Box Drawing](http://en.wikipedia.org/wiki/Box_Drawing_(Unicode_block))
+ 	0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F
+U+250x	─	━	│	┃	┄	┅	┆	┇	┈	┉	┊	┋	┌	┍	┎	┏
+U+251x	┐	┑	┒	┓	└	┕	┖	┗	┘	┙	┚	┛	├	┝	┞	┟
+U+252x	┠	┡	┢	┣	┤	┥	┦	┧	┨	┩	┪	┫	┬	┭	┮	┯
+U+253x	┰	┱	┲	┳	┴	┵	┶	┷	┸	┹	┺	┻	┼	┽	┾	┿
+U+254x	╀	╁	╂	╃	╄	╅	╆	╇	╈	╉	╊	╋	╌	╍	╎	╏
+U+255x	═	║	╒	╓	╔	╕	╖	╗	╘	╙	╚	╛	╜	╝	╞	╟
+U+256x	╠	╡	╢	╣	╤	╥	╦	╧	╨	╩	╪	╫	╬	╭	╮	╯
+U+257x	╰	╱	╲	╳	╴	╵	╶	╷	╸	╹	╺	╻	╼	╽	╾	╿
+
+[Block Elements](http://en.wikipedia.org/wiki/Block_Elements)
+ 	0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F
+U+258x	▀	▁	▂	▃	▄	▅	▆	▇	█	▉	▊	▋	▌	▍	▎	▏
+U+259x	▐	░	▒	▓	▔	▕	▖	▗	▘	▙	▚	▛	▜	▝	▞	▟
+
+[Counting Rod Numerals](http://en.wikipedia.org/wiki/Counting_Rod_Numerals_(Unicode_block))
+0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F
+U+1D36x	𝍠	𝍡	𝍢	𝍣	𝍤	𝍥	𝍦	𝍧	𝍨	𝍩	𝍪	𝍫	𝍬	𝍭	𝍮	𝍯
+U+1D37x	𝍰	𝍱
+
+𝍠 U+1D360 COUNTING ROD UNIT DIGIT ONE
+𝍡 U+1D361 COUNTING ROD UNIT DIGIT TWO
+𝍢 U+1D362 COUNTING ROD UNIT DIGIT THREE
+𝍣 U+1D363 COUNTING ROD UNIT DIGIT FOUR
+𝍤 U+1D364 COUNTING ROD UNIT DIGIT FIVE
+𝍥 U+1D365 COUNTING ROD UNIT DIGIT SIX
+𝍦 U+1D366 COUNTING ROD UNIT DIGIT SEVEN
+𝍧 U+1D367 COUNTING ROD UNIT DIGIT EIGHT
+𝍨 U+1D368 COUNTING ROD UNIT DIGIT NINE
+𝍩 U+1D369 COUNTING ROD TENS DIGIT ONE
+𝍪 U+1D36A COUNTING ROD TENS DIGIT TWO
+𝍫 U+1D36B COUNTING ROD TENS DIGIT THREE
+𝍬 U+1D36C COUNTING ROD TENS DIGIT FOUR
+𝍭 U+1D36D COUNTING ROD TENS DIGIT FIVE
+𝍮 U+1D36E COUNTING ROD TENS DIGIT SIX
+𝍯 U+1D36F COUNTING ROD TENS DIGIT SEVEN
+𝍰 U+1D370 COUNTING ROD TENS DIGIT EIGHT
+𝍱 U+1D371 COUNTING ROD TENS DIGIT NINE
